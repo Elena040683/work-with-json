@@ -1,0 +1,27 @@
+[
+  {
+    "id": "1",
+    "name": "cheese",
+    "price": "2.5"
+  },
+  {
+    "id": "2",
+    "name": "Pizza",
+    "price": "4"
+  },
+  {
+    "id": "4",
+    "name": "Chocolate",
+    "price": "4.5"
+  },
+  {
+    "id": "5",
+    "name": "pen",
+    "price": 0.55
+  },
+  {
+    "name": "IPhone",
+    "price": 17000,
+    "id": "7a6c879d-ac86-4267-b325-26aa4f0711d7"
+  }
+]
